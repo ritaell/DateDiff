@@ -1,5 +1,5 @@
 # DateDiff
-Here is a python program that calculates how man years, months, days, hours, minutes and seconds passed since the date you given.
+Are you looking for a last minute gift for your loved ones? DateDiff is for you! DateDiff is a python program that calculates how man years, months, days, hours, minutes and seconds passed since the date you given. 
 # Usage
 ## 1) Open the python file in a code editor and Change the date and time you want to calculate the difference from (Its located in line 10-19). Also change the last line too. Make sure you saved the file.
 
