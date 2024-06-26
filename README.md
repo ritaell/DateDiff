@@ -16,6 +16,6 @@ https://github.com/ritaell/DateDiff/assets/121665754/52477a8c-7b48-489e-8552-f5e
 
 > [!IMPORTANT]
 > Ensure you are in the correct directory when running the program. If you encounter a "No such file or directory" error, copy the directory path of the DateDiff folder and repeat step 3 again. 
-# Licence
+
 
    
